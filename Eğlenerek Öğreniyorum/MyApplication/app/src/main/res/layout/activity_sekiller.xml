@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="100"
+        android:weightSum="1">
+
+        <ViewFlipper
+            android:id="@+id/vfFlipper"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imagebutton11"
+                android:background="@drawable/ucgen" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imagebutton12"
+                android:background="@drawable/kare"/>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imagebutton13"
+                android:background="@drawable/daire"/>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imagebutton14"
+                android:background="@drawable/kalp"/>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imagebutton15"
+                android:background="@drawable/yildiz"/>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imagebutton16"
+                android:background="@drawable/dikdortgen"/>
+        </ViewFlipper>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width ="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/bGeriGit"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:textColor="#7033f4"
+            android:textStyle="bold"
+            android:background="@drawable/geri_hello" />
+
+        <Button
+            android:id="@+id/bIleriGit"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:textColor="#7033f4"
+            android:textStyle="bold"
+            android:background="@drawable/ileri_hello" />
+        <Button
+            android:id="@+id/bOtomatik"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/otomatik_hello"
+            android:textColor="#7033f4"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</LinearLayout>

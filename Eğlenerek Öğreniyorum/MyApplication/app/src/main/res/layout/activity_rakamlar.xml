@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#d4edf4"
+        android:id="@+id/linearLayout3">
+
+        <VideoView
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:id="@+id/videoView"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center_horizontal">
+
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/birRakam"
+                android:background="@drawable/bir" />
+
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/ikiRakam"
+                android:background="@drawable/iki"
+                android:layout_alignTop="@+id/birRakam"
+                android:layout_toRightOf="@+id/birRakam"
+                android:layout_toEndOf="@+id/birRakam"
+                android:layout_marginLeft="20dp" />
+
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/ucRakam"
+                android:background="@drawable/uc"
+                android:layout_alignTop="@+id/ikiRakam"
+                android:layout_toRightOf="@+id/ikiRakam"
+                android:layout_toEndOf="@+id/ikiRakam"
+                android:layout_marginLeft="20dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="5dp">
+
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/dortRakam"
+                android:background="@drawable/dort"
+                android:layout_alignTop="@+id/besRakam"
+                android:layout_alignLeft="@+id/yediRakam"
+                android:layout_alignStart="@+id/yediRakam" />
+
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/besRakam"
+                android:background="@drawable/bes"
+                android:layout_above="@+id/yediRakam"
+                android:layout_toRightOf="@+id/birRakam"
+                android:layout_toEndOf="@+id/birRakam"
+                android:layout_marginLeft="20dp" />
+
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/altiRakam"
+                android:background="@drawable/alti"
+                android:layout_alignTop="@+id/besRakam"
+                android:layout_toRightOf="@+id/dokuzRakam"
+                android:layout_toEndOf="@+id/dokuzRakam"
+                android:layout_marginLeft="20dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="5dp">
+
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/yediRakam"
+                android:background="@drawable/yedi"
+                android:layout_alignParentBottom="true"
+                android:layout_alignLeft="@+id/birRakam"
+                android:layout_alignStart="@+id/birRakam" />
+
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/sekizRakam"
+                android:background="@drawable/sekiz"
+                android:layout_below="@+id/besRakam"
+                android:layout_toRightOf="@+id/besRakam"
+                android:layout_toEndOf="@+id/besRakam"
+                android:layout_marginLeft="20dp" />
+
+            <ImageButton
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/dokuzRakam"
+                android:background="@drawable/dokuz"
+                android:layout_below="@+id/besRakam"
+                android:layout_toLeftOf="@+id/sekizRakam"
+                android:layout_toStartOf="@+id/sekizRakam"
+                android:layout_marginLeft="20dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
