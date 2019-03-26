@@ -1,0 +1,70 @@
+C:\Users\Mehmet Salih OT\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Mehmet Salih OT\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Mehmet Salih OT\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehmet Salih OT\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Form1.resources
+C:\Users\Mehmet Salih OT\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Properties.Resources.resources
+C:\Users\Mehmet Salih OT\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mehmet Salih OT\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mehmet Salih OT\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Mehmet Salih OT\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Mehmet Salih OT\Desktop\YARIDA KALAN PROJELER\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Mehmet Salih OT\Desktop\YARIDA KALAN PROJELER\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Mehmet Salih OT\Desktop\YARIDA KALAN PROJELER\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Mehmet Salih OT\Desktop\YARIDA KALAN PROJELER\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Mehmet Salih OT\Desktop\YARIDA KALAN PROJELER\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehmet Salih OT\Desktop\YARIDA KALAN PROJELER\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Form1.resources
+C:\Users\Mehmet Salih OT\Desktop\YARIDA KALAN PROJELER\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Properties.Resources.resources
+C:\Users\Mehmet Salih OT\Desktop\YARIDA KALAN PROJELER\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mehmet Salih OT\Desktop\YARIDA KALAN PROJELER\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mehmet Salih OT\Desktop\BLOGLARIM\GMail İle Mail Gönderme\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Mehmet Salih OT\Desktop\BLOGLARIM\GMail İle Mail Gönderme\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Mehmet Salih OT\Desktop\BLOGLARIM\GMail İle Mail Gönderme\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Mehmet Salih OT\Desktop\BLOGLARIM\GMail İle Mail Gönderme\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Mehmet Salih OT\Desktop\BLOGLARIM\GMail İle Mail Gönderme\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehmet Salih OT\Desktop\BLOGLARIM\GMail İle Mail Gönderme\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Form1.resources
+C:\Users\Mehmet Salih OT\Desktop\BLOGLARIM\GMail İle Mail Gönderme\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Properties.Resources.resources
+C:\Users\Mehmet Salih OT\Desktop\BLOGLARIM\GMail İle Mail Gönderme\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mehmet Salih OT\Desktop\BLOGLARIM\GMail İle Mail Gönderme\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Umut Akyü\Downloads\Compressed\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Umut Akyü\Downloads\Compressed\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Umut Akyü\Downloads\Compressed\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Umut Akyü\Downloads\Compressed\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Umut Akyü\Downloads\Compressed\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.csprojResolveAssemblyReference.cache
+C:\Users\Umut Akyü\Downloads\Compressed\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Form1.resources
+C:\Users\Umut Akyü\Downloads\Compressed\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Properties.Resources.resources
+C:\Users\Umut Akyü\Downloads\Compressed\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.csproj.GenerateResource.Cache
+D:\OKUL ARŞİVİ\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.exe
+D:\OKUL ARŞİVİ\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.pdb
+D:\OKUL ARŞİVİ\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.exe
+D:\OKUL ARŞİVİ\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.pdb
+D:\OKUL ARŞİVİ\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.csprojResolveAssemblyReference.cache
+D:\OKUL ARŞİVİ\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Form1.resources
+D:\OKUL ARŞİVİ\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Properties.Resources.resources
+D:\OKUL ARŞİVİ\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.csproj.GenerateResource.Cache
+C:\Users\Umut\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Umut\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Umut\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.csprojResolveAssemblyReference.cache
+C:\Users\Umut\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Form1.resources
+C:\Users\Umut\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Properties.Resources.resources
+C:\Users\Umut\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.csproj.GenerateResource.Cache
+G:\OKUL ARŞİVİ\11.SINIF\NESNE TABANLI PROGRAMLAMA\3,04,2013 Ödev Teslim\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.exe
+G:\OKUL ARŞİVİ\11.SINIF\NESNE TABANLI PROGRAMLAMA\3,04,2013 Ödev Teslim\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.exe
+G:\OKUL ARŞİVİ\11.SINIF\NESNE TABANLI PROGRAMLAMA\3,04,2013 Ödev Teslim\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.pdb
+G:\OKUL ARŞİVİ\11.SINIF\NESNE TABANLI PROGRAMLAMA\3,04,2013 Ödev Teslim\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\OKUL ARŞİVİ\11.SINIF\NESNE TABANLI PROGRAMLAMA\3,04,2013 Ödev Teslim\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Form1.resources
+G:\OKUL ARŞİVİ\11.SINIF\NESNE TABANLI PROGRAMLAMA\3,04,2013 Ödev Teslim\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Properties.Resources.resources
+G:\OKUL ARŞİVİ\11.SINIF\NESNE TABANLI PROGRAMLAMA\3,04,2013 Ödev Teslim\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\OKUL ARŞİVİ\11.SINIF\NESNE TABANLI PROGRAMLAMA\3,04,2013 Ödev Teslim\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\OKUL ARŞİVİ\11.SINIF\NESNE TABANLI PROGRAMLAMA\3,04,2013 Ödev Teslim\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Volkan\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Volkan\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Volkan\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.csprojResolveAssemblyReference.cache
+C:\Users\Volkan\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Form1.resources
+C:\Users\Volkan\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail_İle_Mail_Gönderme.Properties.Resources.resources
+C:\Users\Volkan\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.csproj.GenerateResource.Cache
+C:\Users\Volkan\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Volkan\Desktop\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\bin\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\Volkan\Desktop\Staj\Mail Gönderme (Postala)\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\Volkan\Desktop\Staj\Mail Gönderme (Postala)\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.pdb
+C:\Users\volka\Desktop\Mail Gönderme (Postala)\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.exe
+C:\Users\volka\Desktop\Mail Gönderme (Postala)\Gmail İle Mail Gönderme\Gmail İle Mail Gönderme\obj\x86\Debug\Gmail İle Mail Gönderme.pdb
